@@ -1,11 +1,11 @@
-# Foldery generowane przez silnik
+# Engine generated folders
 Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
 Saved/
 
-# Pliki Visual Studio / Rider
+# Files Visual Studio / Rider
 .vs/
 .vsconfig
 *.sln
@@ -16,10 +16,10 @@ Saved/
 *.VC.opendb
 .idea/
 
-# Pliki systemowe
+# System files
 .DS_Store
 Thumbs.db
 
-# Pluginy - jeśli masz jakieś pobrane binarki wtyczek, warto je też olać
+# Plugins
 Plugins/*/Binaries/
 Plugins/*/Intermediate/
